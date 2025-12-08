@@ -1,0 +1,13 @@
+1. Clicando na função "Criar Conta" sera redirecionado para a criação de cadastro. 
+1.1. tela-criarconta1.jpg
+2. Neste local, selecione o tipo "PF OU PJ" e aceite os termos de uso 
+2.2. tela-criarconta2.jpg
+3. Adicione o "CPF ou CNPJ" e clique em "Continuar"
+3.3. tela-criarconta3.jpg
+4. Preencha as informações solicitadas e clique em "Registrar"
+5. Irá ser redirecionado a tela "Home", basta clicar em "Entrar" e preencher as informações de login
+
+
+# Observações
+
+1. Importante que os dados sejam preenchidos corretamente, essas informações serão utilizadas dentro ao APP.

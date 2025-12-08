@@ -1,0 +1,5 @@
+1. Na tela inicial, clicar em "Entrar"
+2. Digite seu CPF/CNPJ e senha 
+2.2. tela-login1.png
+3. Realizando o login, verá a tela "Novo Pedido"
+3.3. tela-novopedido1.jpg

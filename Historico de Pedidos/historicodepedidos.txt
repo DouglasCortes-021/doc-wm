@@ -1,0 +1,4 @@
+1. Dentro deste local, existirá o historico de todos os pedidos já feitos.
+1.1 tela-historicopedidos.jpg
+2. Botão "Cancelar" onde cancela o pedido já feito. 
+3. Botão "Comprar Novamente" onde pode repetir o pedido. 

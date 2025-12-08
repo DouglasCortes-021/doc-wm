@@ -1,0 +1,10 @@
+1. Pagina inicial com opções de seleção.
+1.1. tela-home.jpg
+2. Editar Perfil, o local onde você edita suas informações
+3. Novo Pedido, o local para realizar um novo pedido.
+4. Acompanhe suas Entregas, o local onde acompanha suas entregas
+5. Refazer meu Ultimo Pedido, o local onde repete seus pedidos
+6. Produtos e Serviços, o local onde encontra todo tipo de serviço e produtos
+7. Historico de Pedidos, o local onde encontra todos os pedidos já feito
+8. Indique um Amigo, o local onde você indica um amigo.
+9. Pergunta Frequentes, o local onde todas as duvidas são sanadas

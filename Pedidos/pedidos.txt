@@ -1,0 +1,39 @@
+# PEDIDOS
+
+1. Na tela "Home" verá "Novo Pedido" e opções para realizar o pedido como, "Qual Gás Você Precisa?" e "Você Precisa de Cilindro?"
+1.1. tela-home1.png
+2. Clicando em "Qual Gás Você Precisa?", te dará opções de escolha de "Produtos"
+2.1. tela-produtos1.png
+3. Selecione um produto e clique em "Ok"
+4. Clicando em "Você Precisa de Cilindro?" te dará opções de escolha de "Recarga ou Aluguel"
+4.1. tela-produtos2.png
+5. Escolhendo a opção, clique em "Ok"
+6. Agora aparecerá a opção de escolher o tamanho do seu "Cilindro"
+6.1. tela-produtos3.png
+7. Selecione e quantidade de Cilindros clicando no "+" para aumentar a quantidade e "-" para reduzir a quantidade 
+7.1 tela-produtos4.png
+8. Adicionando a quantidade, clique em "Adicionar ao Caminhão"
+
+# CAMINHÃO 
+
+9. Dentro da tela "Caminhão" você verá tadas as informações sobre, Endereço de Entrega, Quantidade do Produto, Valor Final, Termos de Aceite, informações Sobre Entrega/Produtos, Data da Entrega, Forma de Pagamento e Observações
+9.1 tela-caminhao1.png
+10. Selecione a Data de Entrega
+11. Seleecione a Forma de Pagamento 
+12. Clique em "Avançar"
+
+# RESUMO 
+
+13. Toda tela com o "Resumo" do pedido
+13.1. tela-resumo1.png
+14. Tela de "Resumo" conta Total do Pedido, Produto e Quantidade, Data da Entrega, Forma de Pagamento e Endereço
+15. Clique em "Confirmar Pedido" para concluir seu pedido 
+
+# PEDIDOS / CANCELAR PEDIDOS
+
+16. Opção de visualização do "Pedido" e cancelamento do mesmo. 
+16.1. tela-cancelar1.png
+17. Para cancelar o pedido, basta clicar em "Cancelar Pedido"
+18. Escolha o motivo do cancelamento 
+18.1. tela-cancelar2.png
+19. Para confirmar o cancelamento clique em "Confirmar Cancelamento"
