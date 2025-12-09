@@ -1,5 +1,27 @@
+#login
+
 1. Na tela inicial, clicar em "Entrar"
 2. Digite seu CPF/CNPJ e senha 
-2.2. tela-login1.png
-3. Realizando o login, verá a tela "Novo Pedido"
-3.3. tela-novopedido1.jpg
+2.1. tela-login1.png
+3. Para acessar, clique em "Continuar"
+4. Realizando o login, verá a tela "Novo Pedido"
+4.1. tela-novopedido1.jpg
+
+#Esqueci a Senha
+5. Para redifinição de senha, clique em "Esqueci a Senha"
+6. Digite o email cadastrado em sua Continuar
+6.1. tela-esqueciasenha1.jpg
+7. Clique em "Enviar"
+8. Acesse o email cadastrado e clique no link para a redefinição da senha
+8.1. tela-esqueciasenha2.jpg
+9. Coloque a senha desejada e clique em "Salvar"
+9.1. tela-esqueciasenha3.jpg
+
+#Crie sua Conta
+10. Caso não exista o cadastro, clique em "Criar Sua Conta" e será redirecionado para preencher as informações
+
+#FAQ
+11. "Perguntas Frequentes" o local onde todas as duvidas são sanadas.
+
+#Saiba Mais
+12.
