@@ -3,11 +3,34 @@
 2. Neste local, selecione o tipo "PF OU PJ" e aceite os termos de uso 
 2.2. tela-criarconta2.jpg
 3. Adicione o "CPF ou CNPJ" e clique em "Continuar"
-3.3. tela-criarconta3.jpg
-4. Preencha as informações solicitadas e clique em "Registrar"
-5. Irá ser redirecionado a tela "Home", basta clicar em "Entrar" e preencher as informações de login
-
+3.1. tela-criarconta3.jpg
+4. Caso já exista uma conta cadastrada com CPF ou CNPJ, sera emitido uma mensagem "Já existe um cadastro com esse documento"
+4.1. tela-criarconta4.jpg
+5. Caso tenha uma conta cadastrada com CPF ou CNPJ, infrome outro CFP ou CNPJ para dar continuidade.
+6. Digite o nome completo
+7. Digite o CEP do local onde sera realizada as entregas, ao digitar o CEP correto, será preenchido automaticamente a rua, bairro, cidade e estado
+8. Digite o telefone de contato com DDD
+9. Digite o endereço de entrega
+10. Digite o numero da residencia
+11. Digite o bairro da residencia
+12. Digite a cidade da residencia 
+13. Digite o estado da residencia
+14. Digite o complemento da residencia, informe se é predio, casa ou empresa
+15. Informe o segmento do mercado
+16. Digite o email
+17. Informe novamente o email para verificação
+17.1. Caso já tenha cadastro com o email informado, digite outro email que não tenha sido utilizado.
+17.2. tela-criarconta5.jpg
+18. Adicione a senha que será utilizada para acessar a conta.
+19. Informe como você ficou sabendo do App White Martins
+20. Clique em "Registrar" para concluir a crialção da sua conta
+21. Caso falte um campo para ser preenchido, recebera uma mensagem informando o campo que precisa ser preenchido
+21.1. tela-criarconta6.jpg.
+22. Preencha as informações solicitadas e clique em "Registrar"
+23. Irá ser redirecionado a tela "Home", basta clicar em "Entrar" e preencher as informações de login
 
 # Observações
 
 1. Importante que os dados sejam preenchidos corretamente, essas informações serão utilizadas dentro ao APP.
+2. Somente um "email" pode ser utilizado por conta
+3. Somente um "CPF ou CNPJ" pode ser utilizado por conta

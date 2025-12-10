@@ -2,3 +2,6 @@
 1.1 tela-historicopedidos.jpg
 2. Botão "Cancelar" onde cancela o pedido já feito. 
 3. Botão "Comprar Novamente" onde pode repetir o pedido. 
+3.1. "Comprar Novamente" retorna a pagina "Pedidos" para que seja feito o pedido novamente
+3.2. tela-historicopedidos2.jpg
+4. Detalhes, resume o pedido realizado 
